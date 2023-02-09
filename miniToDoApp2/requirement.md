@@ -1,0 +1,6 @@
+- Yeni iş əlavə edilə bilsin
+- İş silinə bilsin
+- İş tamamlanmış hesab oluna bilsin
+- İş edit oluna bilsin
+- Enter buttonu vasitesilə yeni melumat daxil olunsun
+-Tapşırıq əlavə edildikdən sonra tapşırıq mətninin dəyişdirilə bilsin.
